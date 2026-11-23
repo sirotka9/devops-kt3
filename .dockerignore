@@ -1,0 +1,7 @@
+node_modules
+.git
+.github
+coverage
+*.test.js
+README.md
+setup.sh
